@@ -82,3 +82,5 @@ console.log(c); //30
 //🧠 One-line takeaway
 
 //Scope decide karta hai ki variable kahan available hoga aur kahan nahi.
+
+
