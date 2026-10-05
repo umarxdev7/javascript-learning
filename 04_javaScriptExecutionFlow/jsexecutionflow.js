@@ -17,3 +17,7 @@
 // Complete → POP
 //   ↓
 // Outer/Global execution continues
+
+//execution phase = environment jaha js ke codes execute hote hai
+
+//call stack = executed codes ko correct order me lagane wala environment
